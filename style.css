@@ -234,7 +234,7 @@ p {
 
 .hero {
   position: relative;
-  min-height: 780px;
+  min-height: 200px;
   display: flex;
   align-items: center;
   overflow: hidden;
